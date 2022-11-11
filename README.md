@@ -3,5 +3,5 @@ these are [Minesraft2](https://github.com/Minesraft2) hacks... i just downloaded
 
 # Free Account
 
-Username: Free_Chroma_PLS
-Password: 
+Username: LOljaydedn
+Password: Lol1234h
