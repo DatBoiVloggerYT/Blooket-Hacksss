@@ -8,10 +8,6 @@ The add tokens hack must be ran on [this](https://play.blooket.com) page due to 
 
 Every gamemode hack is now a bookmarklet so use the bookmarklet method.
 
-# Support server
-
-https://discord.gg/DVkzCVQJ
-
 🌟PLEASE STAR THIS PROJECT🌟
 
 # How to use    
