@@ -24,12 +24,8 @@ https://raw.githubusercontent.com/JaydenTD500/Blooket-hacks-48/main/Global/hight
 
 # autoAnswer.js
 
-https://raw.githubusercontent.com/JaydenTD500/Blooket-hacks-48/main/Global/autoAnswer.js
+https://raw.githubusercontent.com/JaydenTD500/Blooket-Hacksss-/main/Global/autoAnswer.js
 
 # freePlus.js
 
 https://raw.githubusercontent.com/JaydenTD500/Blooket-Hacksss/main/Bookmarklets/Global/freePlus.js
-
-# bypassAlertsAndStuff
-
-https://raw.githubusercontent.com/JaydenTD500/Blooket-Hacksss/main/Bookmarklets/Global/bypassAlertsAndStuff.js
