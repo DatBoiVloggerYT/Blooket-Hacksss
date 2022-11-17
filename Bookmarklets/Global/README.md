@@ -44,3 +44,8 @@ javascript:(function()%7B(()%3D%3E%7B(function(_0x1e3d21%2C_0x51886f)%7Bconst%20
 ```
 javascript:(function()%7B(()%20%3D%3E%20%7B%0A%09const%20stateNode%20%3D%20Object.values(document.querySelector('%23app%20%3E%20div%20%3E%20div'))%5B1%5D.children%5B1%5D._owner.stateNode%3B%0A%09stateNode.setState(%7B%20plus%3A%20true%20%7D)%3B%0A%7D)()%3B%7D)()%3B
 ```
+# createFolder.js
+
+```
+javascript:(function()%7Bvar%20hack%20%3D%20Object.values(document.querySelector('%23app%20%3E%20div%20%3E%20div'))%5B1%5D.children%5B1%5D%5B'_owner'%5D.stateNode%3B%0Ahack.setState(%7B%0A%20%20creatingFolder%3A%20true%0A%7D)%3B%7D)()%3B
+```
