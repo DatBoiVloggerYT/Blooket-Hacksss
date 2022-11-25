@@ -3,3 +3,10 @@ these are [Minesraft2](https://github.com/Minesraft2) and [rxzyx](https://github
 
 # Website
 https://blooket-haccks.webnode.page/
+
+# How to use
+PC
+
+
+Mobile
+
