@@ -4,12 +4,3 @@ these are [Minesraft2](https://github.com/Minesraft2) and [rxzyx](https://github
 # Website
 https://blooket-haccks.webnode.page/
 
-# How to use
-
-PC
-
-https://streamable.com/xjgu6b
-
-Mobile
-
-https://streamable.com/dwt1jb
