@@ -1,10 +1,3 @@
-# Reddit : https://www.reddit.com/r/Blooket_hacksss/
+# Not breaking TOS
 
-# Discord : https://discord.gg/w4AncHq2
-
-# These are not myy hacks
-these are [Minesraft2](https://github.com/Minesraft2/Blooket-Cheats) hacks... i just downloaded it  and uploaded the bookmarklet versions.
-
-# Website
-https://blooket-haccks.webnode.page/
-
+So i recently found out that my account got banned because of this rep to im not going to break Blooket TOS.
